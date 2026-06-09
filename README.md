@@ -1,45 +1,46 @@
-<!-- Banner Principal -->
 <div align="center">
-  <img src="URL_DE_TU_BANNER_AQUI" alt="Banner Carlos Archbold" width="100%">
-  
-  <h1>Hola, soy Carlos Archbold</h1>
-  <p><em>Full-Stack Developer | System Auditor</em></p>
-  
-  <!-- Enlaces Rápidos -->
-  <p>
-    <a href="mailto:archboldflechas@gmail.com">📧 Email</a> |  
-    <a href="https://github.com/CarlosArchbold">🐙 GitHub</a>
-  </p>
-</div>
+
+<!-- Banner (Asegúrate de que la ruta sea correcta) -->
+<img src="./Banner_Carlos_Archbold.png" width="100%" />
+
+# ¡Hola, soy Carlos Archbold! 🚀
+
+### *Full-Stack Developer | System Auditor*
+
+<p align="center">
+  <a href="mailto:archboldflechas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/CarlosArchbold">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<!-- Sección de Skills -->
-## 💻 Habilidades Técnicas
+## 🛠️ Habilidades Técnicas
+<br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 
 ---
 
-<!-- Sección sobre ti con tu foto -->
-## 🚀 Acerca de mí
+## 👤 Acerca de mí
 
-<table align="center">
+<table>
   <tr>
-    <td width="300" align="center">
-      <img src="RUTA_O_URL_DE_foto carlos azul_4.jpeg" width="200" style="border-radius: 50%;">
+    <td width="200" align="center">
+      <img src="./foto_carlos_azul_4.jpeg" width="150" style="border-radius: 50%; border: 3px solid #61DAFB;" />
     </td>
-    <td width="400">
-      <p>Apasionado por crear soluciones eficientes e innovadoras.</p>
-      <p>Actualmente enfocado en auditoría de datos y desarrollo full-stack, 
-      automatizando procesos críticos para mejorar la integridad de la información.</p>
-      <p>¡Siempre abierto a nuevos retos y colaboraciones!</p>
+    <td>
+      <p>Apasionado por crear soluciones tecnológicas eficientes e innovadoras. Mi enfoque combina la auditoría de sistemas con el desarrollo robusto, buscando siempre la integridad de los datos.</p>
+      <p><b>📍 Barranquilla, Colombia</b></p>
     </td>
   </tr>
 </table>
+
+</div>
