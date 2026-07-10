@@ -1,0 +1,65 @@
+<svg width="1600" height="400" viewBox="0 0 1600 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1F3A"/>
+      <stop offset="55%" stop-color="#132D52"/>
+      <stop offset="100%" stop-color="#0B1F3A"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#F4E19C"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B1F3A" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0B1F3A" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E3A5F" stroke-width="1" opacity="0.35"/>
+    </pattern>
+  </defs>
+
+  <!-- Fondo -->
+  <rect width="1600" height="400" fill="url(#bg)"/>
+  <rect width="1600" height="400" fill="url(#grid)"/>
+
+  <!-- Formas geometricas decorativas -->
+  <circle cx="1430" cy="90" r="180" fill="#D4AF37" opacity="0.06"/>
+  <circle cx="1500" cy="330" r="120" fill="#D4AF37" opacity="0.08"/>
+  <polygon points="1250,400 1600,400 1600,180" fill="#132D52" opacity="0.5"/>
+
+  <!-- Linea de codigo decorativa -->
+  <g font-family="'Courier New', monospace" font-size="15" fill="#3E5C82" opacity="0.55">
+    <text x="60" y="55">const developer = {</text>
+    <text x="90" y="78">name: "Carlos Archbold",</text>
+    <text x="90" y="101">role: "Software Developer",</text>
+    <text x="90" y="124">location: "Barranquilla, CO"</text>
+    <text x="60" y="147">};</text>
+  </g>
+
+  <!-- Barra dorada vertical -->
+  <rect x="60" y="190" width="6" height="130" fill="url(#gold)" rx="3"/>
+
+  <!-- Nombre -->
+  <text x="90" y="250" font-family="'Segoe UI', Arial, sans-serif" font-size="56" font-weight="700" fill="#FFFFFF">
+    Carlos Archbold
+  </text>
+
+  <!-- Titulo -->
+  <text x="93" y="290" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="400" fill="url(#gold)">
+    Analista y Desarrollador de Software
+  </text>
+
+  <!-- Subtitulo -->
+  <text x="93" y="320" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#B8C6DA">
+    Python · SQL Server · React · Automatización de Datos
+  </text>
+
+  <!-- Sello ubicacion -->
+  <g transform="translate(93,345)">
+    <circle cx="6" cy="0" r="4" fill="#D4AF37"/>
+    <text x="18" y="4" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#8FA3C0">Barranquilla, Colombia</text>
+  </g>
+
+  <!-- Fade lateral derecho para las formas -->
+  <rect x="1250" width="10" height="400" fill="url(#fade)" opacity="0"/>
+</svg>
