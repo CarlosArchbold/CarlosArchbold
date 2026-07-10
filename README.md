@@ -3,8 +3,6 @@
 <!-- Banner Principal -->
 <img src="Banner_Carlos_Archbold.svg" width="100%" alt="Carlos Archbold Banner"/>
 
-# ¡Hola, soy Carlos Archbold! 🚀
-
 ### **Analista y Desarrollador de Software | Web Developer**
 
 <p align="center">
