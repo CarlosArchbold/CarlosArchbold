@@ -80,8 +80,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosArchbold&show_icons=true&theme=default&hide_border=true&title_color=1B365D&icon_color=D4AF37&text_color=333333" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosArchbold&layout=compact&hide_border=true&title_color=1B365D&text_color=333333" width="48%" />
+  <img src="GitHub_Snapshot_Carlos.svg" width="80%" alt="GitHub Snapshot"/>
 </p>
 
 <p align="center">
@@ -106,3 +105,4 @@
 </table>
 
 </div>
+
