@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Principal -->
-<img src="Banner_Carlos_Archbold.png" width="100%" alt="Carlos Archbold Banner" onerror="this.src='https://raw.githubusercontent.com/CarlosArchbold/CarlosArchbold/main/Banner_Carlos_Archbold.png'"/>
+<img src="Banner_Carlos_Archbold.svg" width="100%" alt="Carlos Archbold Banner"/>
 
 # ¡Hola, soy Carlos Archbold! 🚀
 
