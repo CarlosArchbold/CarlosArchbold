@@ -98,7 +98,7 @@
     </td>
     <td align="left" style="border: none; padding-left: 20px;">
       <p>Desarrollador Web y Analista de Software con sólida formación técnica, enfocado en la creación y mantenimiento de soluciones web robustas e innovadoras. Especializado en lógica backend, integración de bases de datos relacionales y optimización de procesos mediante sistemas automáticos de monitoreo en tiempo real.</p>
-      <p>🎓 Tecnólogo en Análisis y Desarrollo de Software — SENA (2026)</p>
+      <p>🎓 Tecnólogo en Análisis y Desarrollo de Software</p>
       <p><b>📍 Barranquilla, Colombia</b></p>
     </td>
   </tr>
