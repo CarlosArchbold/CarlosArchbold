@@ -97,8 +97,8 @@
       <img src="foto_carlos_azul_4.jpeg" width="150" style="border-radius: 50%; border: 3px solid #1B365D;" alt="Carlos Archbold"/>
     </td>
     <td align="left" style="border: none; padding-left: 20px;">
-      <p>Desarrollador Web y Analista de Software con sólida formación técnica, enfocado en la creación y mantenimiento de soluciones web robustas e innovadoras. Especializado en lógica backend, integración de bases de datos relacionales y optimización de procesos mediante sistemas automáticos de monitoreo en tiempo real.</p>
-      <p>🎓 Tecnólogo en Análisis y Desarrollo de Software</p>
+      <p>Administrador de Empresas y Desarrollador Web con sólida formación técnica como Analista de Software. Me enfoco en la creación y mantenimiento de soluciones web robustas e innovadoras, especializándome en lógica backend, integración de bases de datos relacionales y la optimización de procesos de negocio mediante sistemas automáticos de monitoreo en tiempo real.</p>
+      <p>🎓 Administrador de Empresas | Tecnólogo en Análisis y Desarrollo de Software</p>
       <p><b>📍 Barranquilla, Colombia</b></p>
     </td>
   </tr>
