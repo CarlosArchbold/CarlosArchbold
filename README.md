@@ -12,10 +12,13 @@
 
 <p align="center">
   <a href="mailto:archboldflechas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-archboldflechas%40gmail.com-1B365D?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-archboldflechas%40gmail.com-1B365D?labelColor=000000&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/CarlosArchbold">
-    <img src="https://img.shields.io/badge/GitHub-CarlosArchbold-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-CarlosArchbold-1B365D?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://portafolio-premium-3-d-carlos-archb.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-Web_3D-1B365D?labelColor=000000&style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -75,21 +78,21 @@
 <img src="https://img.shields.io/badge/Siebel-2B6CB0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Sinco-2F855A?style=for-the-badge" />
 
-###  Asistencias de Inteligencia Artificial
+### Asistencias de Inteligencia Artificial
 <p>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 </p>
 
-###  Entornos de Desarrollo & IDEs
+### Entornos de Desarrollo & IDEs
 <p>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
 </p>
 
-###  Cloud & Despliegue
+### Cloud & Despliegue
 <p>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -125,4 +128,3 @@
 </table>
 
 </div>
-
